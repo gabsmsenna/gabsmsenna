@@ -66,6 +66,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_AQUI&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsmsenna&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
 </p>
