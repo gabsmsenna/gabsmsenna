@@ -1,71 +1,61 @@
-<div align="center">
-  <p align="center">
-  <img src="upscalemedia-transformed.jpeg" alt="Banner Gabriel Senna - Tema Radahn" width="100%">
+**Analista e Desenvolvedor de Software**, estudante de Sistemas de Informação e desenvolvedor full stack com foco em **backend Java**.
+
+Atualmente, trabalho no desenvolvimento e modernização de sistemas corporativos para o setor industrial, participando desde a análise de requisitos e modelagem do banco de dados até a implementação de APIs, regras de negócio, testes automatizados e integração com o frontend.
+
+Tenho interesse em **backend, arquitetura de software, qualidade de código, testes automatizados, APIs REST e desenvolvimento de aplicações escaláveis e de fácil manutenção**.
+
+## 💻 Tecnologias e ferramentas
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java, Spring, Hibernate e Maven"/>
+  <img height="48" src="https://cdn.simpleicons.org/quarkus/4695EB" alt="Quarkus"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmsenna)
+### Frontend
 
-</div>
-
-----
-
-<p align="left">
-  <img src="9581e4e20c121ba4f079e592c45bf7f8.avf.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
-  <div>
-  <h3>Junior Backend Developer</h3>
-  <p>
-  I am an Information Systems student in my final year, currently working as a Junior Developer with a strong focus on specializing in <b>Back-end architecture, Cloud, and DevOps</b>.
-  <br><br>
-  I've been building robust applications applying concepts like hexagonal architecture and serverless deployments. Currently, I am focused on developing scalable SaaS products, utilizing technologies like <b>Java, Spring Boot, Node.js, and AWS</b>, alongside CI/CD pipelines with GitHub Actions and Terraform. 
-  <br><br>
-</p>
-  </div>
-<br clear="right">
-
-<div align="center">
-<h3>Technologies</h3>
-</div>
-
----
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white )
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=white )
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white )
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white )
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white )
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white )
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white )
-![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=white )
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white )
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white )
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white )
-![pnpm](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm&logoColor=white )
-
- </div>
-
-</br>
-</br>
-
-<div align="center">
-<h3>Statistics</h3>
-</div>
-
----
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsmsenna&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsmsenna&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,react,nextjs&theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS, React e Next.js"/>
 </p>
 
----
+### Bancos de dados
 
-</br>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL e MongoDB"/>
+  <img height="48" src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle"/>
+</p>
 
-<p align="center">
+### Testes e qualidade de código
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsmsenna&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+<p>
+  <img height="45" src="https://cdn.simpleicons.org/junit5/25A162" alt="JUnit 5"/>
+  <img height="45" src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube"/>
+</p>
 
+`JUnit 5` · `Mockito` · `JaCoCo` · `PIT Mutation Testing` · `Karma`
+
+### DevOps e infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,kubernetes,linux&theme=dark" alt="Docker, AWS, Jenkins, Kubernetes e Linux"/>
+  <img height="48" src="https://cdn.simpleicons.org/redhatopenshift/EE0000" alt="OpenShift"/>
+</p>
+
+### Ferramentas de desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman&theme=dark" alt="Git, GitHub, GitLab, VS Code, IntelliJ IDEA e Postman"/>
+</p>
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/gabrielmsenna">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
 </p>
