@@ -9,20 +9,20 @@ Tenho interesse em **backend, arquitetura de software, qualidade de código, tes
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java, Spring, Hibernate e Maven"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java, Spring"/>
   <img height="48" src="https://cdn.simpleicons.org/quarkus/4695EB" alt="Quarkus"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,react,nextjs&theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS, React e Next.js"/>
+  <img src="https://skillicons.dev/icons?i=angular,typescript&theme=dark" alt="Angular, TypeScript"/>
 </p>
 
 ### Bancos de dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL e MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="PostgreSQL,MongoDB"/>
   <img height="48" src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle"/>
 </p>
 
@@ -30,7 +30,6 @@ Tenho interesse em **backend, arquitetura de software, qualidade de código, tes
 
 <p>
   <img height="45" src="https://cdn.simpleicons.org/junit5/25A162" alt="JUnit 5"/>
-  <img height="45" src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube"/>
 </p>
 
 `JUnit 5` · `Mockito` · `JaCoCo` · `PIT Mutation Testing` · `Karma`
@@ -38,14 +37,8 @@ Tenho interesse em **backend, arquitetura de software, qualidade de código, tes
 ### DevOps e infraestrutura
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,kubernetes,linux&theme=dark" alt="Docker, AWS, Jenkins, Kubernetes e Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins&theme=dark" alt="Docker, AWS, Jenkins"/>
   <img height="48" src="https://cdn.simpleicons.org/redhatopenshift/EE0000" alt="OpenShift"/>
-</p>
-
-### Ferramentas de desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman&theme=dark" alt="Git, GitHub, GitLab, VS Code, IntelliJ IDEA e Postman"/>
 </p>
 
 ## 📫 Contato
@@ -55,7 +48,7 @@ Tenho interesse em **backend, arquitetura de software, qualidade de código, tes
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:gabrielmagalhaes3344@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
 </p>
